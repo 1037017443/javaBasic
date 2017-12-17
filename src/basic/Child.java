@@ -1,4 +1,4 @@
-package test;
+package basic;
 
 public class Child extends Person {
 	public static void main(String[] args) {

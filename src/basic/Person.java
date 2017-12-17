@@ -1,4 +1,4 @@
-package test;
+package basic;
 
 public class Person {
 	private String name = "username";
